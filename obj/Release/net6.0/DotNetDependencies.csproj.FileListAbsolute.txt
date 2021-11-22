@@ -1,0 +1,15 @@
+C:\Users\koayjing.zhi\DotNetDependencies\bin\Release\net6.0\DotNetDependencies.exe
+C:\Users\koayjing.zhi\DotNetDependencies\bin\Release\net6.0\DotNetDependencies.deps.json
+C:\Users\koayjing.zhi\DotNetDependencies\bin\Release\net6.0\DotNetDependencies.runtimeconfig.json
+C:\Users\koayjing.zhi\DotNetDependencies\bin\Release\net6.0\DotNetDependencies.dll
+C:\Users\koayjing.zhi\DotNetDependencies\bin\Release\net6.0\ref\DotNetDependencies.dll
+C:\Users\koayjing.zhi\DotNetDependencies\bin\Release\net6.0\DotNetDependencies.pdb
+C:\Users\koayjing.zhi\DotNetDependencies\obj\Release\net6.0\DotNetDependencies.csproj.AssemblyReference.cache
+C:\Users\koayjing.zhi\DotNetDependencies\obj\Release\net6.0\DotNetDependencies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\koayjing.zhi\DotNetDependencies\obj\Release\net6.0\DotNetDependencies.AssemblyInfoInputs.cache
+C:\Users\koayjing.zhi\DotNetDependencies\obj\Release\net6.0\DotNetDependencies.AssemblyInfo.cs
+C:\Users\koayjing.zhi\DotNetDependencies\obj\Release\net6.0\DotNetDependencies.csproj.CoreCompileInputs.cache
+C:\Users\koayjing.zhi\DotNetDependencies\obj\Release\net6.0\DotNetDependencies.dll
+C:\Users\koayjing.zhi\DotNetDependencies\obj\Release\net6.0\ref\DotNetDependencies.dll
+C:\Users\koayjing.zhi\DotNetDependencies\obj\Release\net6.0\DotNetDependencies.pdb
+C:\Users\koayjing.zhi\DotNetDependencies\obj\Release\net6.0\DotNetDependencies.genruntimeconfig.cache
